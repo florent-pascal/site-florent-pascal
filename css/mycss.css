@@ -1,0 +1,145 @@
+/* 
+GOOGLE FONT
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@1,700&family=Inconsolata&display=swap');
+
+/* 
+CONTACT
+*/
+
+#contact-haut {
+	background-color: #010C38;
+	color: #fff;
+	font-size: smaller;
+}
+#contact-haut a {
+    text-decoration: none;
+    color: #fff;
+}
+.devis {
+    font-size: small;  
+}
+.btn-primary {
+    color: #fff;
+    background-color: #00bfff;
+    border-color: #00bfff;
+    line-height: 1;
+}
+
+/* 
+MENU
+*/
+
+#menu {
+    width: 100%;
+    height: 120px;
+}
+#menu a {
+    color: #000;
+    font-weight: 500;
+    letter-spacing: .03em;
+}
+#menu a:hover {
+    color: #00bfff;
+    text-decoration: underline;
+    text-underline-position: under;
+}
+#left-side {
+    text-align: center;
+}
+.logo {
+    position: relative;
+    right: 50px;   
+}
+.prenom {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 2.5rem;
+    line-height: 1;
+    position: relative;
+    right: 60px;
+    bottom: 10px;
+}
+.nom {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    font-size: 2.5rem;
+    line-height: 1;
+    position: relative;
+    left: 5px;
+    bottom: 43px;
+}
+
+/* 
+BANNIERE
+*/
+
+#banniere p {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 1.1;
+    letter-spacing: 6px;
+    background-color: #2a2628;
+    color: #fff;
+    padding: 5px 0 10px 160px;
+
+}
+
+/* 
+PAGE ACCUEIL
+*/
+
+#services {
+    font-family: 'Nunito', sans-serif;
+    column-width: 70%;
+}
+#services li {
+    list-style-type: none;
+}
+#services h1 {
+    font-weight: 800;
+    text-align: center;  
+}
+#services h3 {
+    font-weight: 600;
+    letter-spacing: 0rem;
+    text-align: center;  
+}
+
+/* 
+PAGE CONTACT
+*/
+
+#contact {
+    background-color: #010C38;
+    color: #fff;
+}
+
+/* 
+FOOTER
+*/
+
+#footer {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    border-top: 1px solid;
+    border-color: #010C38;
+}
+#footer a {
+    text-decoration: none;
+    font-size: .9rem;
+}
+.mentions {
+    font-weight: 400;
+    font-size: .6rem;
+    letter-spacing: .4px;
+    float: right;
+    padding-bottom: 0;
+}
+
+
+
